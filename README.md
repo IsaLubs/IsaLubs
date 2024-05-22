@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Isa lubs</h1>
-<h3 align="center">A passionate full stack developer from SWEDEN</h3>
+<h3 align="center">A passionate Full stack software developer from SWEDEN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relativelyrehan&label=Profile%20views&color=0e75b6&style=flat" alt="relativelyrehan" /> </p>
 

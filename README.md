@@ -1,10 +1,12 @@
+<h1 align="center">Hi 👋, I'm Isa lubs</h1>
+<h3 align="center">
+Hi, I'm ISA LUBS, a web and mobile app developer 👨🏻‍💻 from SWEDEN. I'm a Results-oriented full stack developer with 1+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.</h3>
+
+
 <div align="center">
 	<img src = "https://user-images.githubusercontent.com/48210765/212149002-e7ad87c0-45de-4125-9eb9-19896061d860.svg" height="400">
 </div>
 
-<h1 align="center">Hi 👋, I'm Isa lubs</h1>
-<h3 align="center">
-Hi, I'm ISA LUBS, a web and mobile app developer 👨🏻‍💻 from SWEDEN. I'm a Results-oriented full stack developer with 1+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relativelyrehan&label=Profile%20views&color=0e75b6&style=flat" alt="relativelyrehan" /> </p>
 

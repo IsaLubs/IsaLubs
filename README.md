@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Isa lubs</h1>
+<h1 align="center">Hi 👋, I'm ISA LUBS</h1>
 <h3 align="center">
-Hi, I'm ISA LUBS, a web and mobile app developer 👨🏻‍💻 from SWEDEN. I'm a Results-oriented full stack developer with 1 years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.</h3>
+Hi, I'm Isa lubs, a web and mobile app developer 👨🏻‍💻 from SWEDEN. I'm a Results-oriented full stack developer with 1 years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.</h3>
 
 
 <div align="center">

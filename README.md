@@ -8,7 +8,6 @@ Hi, I'm Isa lubs, a web and mobile app developer 👨🏻‍💻 from SWEDEN. I'
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=relativelyrehan&label=Profile%20views&color=0e75b6&style=flat" alt="relativelyrehan" /> </p>
 
 - 👨‍💻 All of my projects are available at:  GITHUB
      

@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm ISA LUBS</h1>
+<h1 align="center">Hi 👋, I'm ISAAC LUBEGA</h1>
 <h3 align="center">
-Hi, I'm Isa lubs, a web and mobile app developer 👨🏻‍💻 from SWEDEN. I'm a Results-oriented full stack developer with 1 years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.</h3>
+Hi, I'm Isa lubs, a web and mobile app developer 👨🏻‍💻 from SWEDEN. Highly skilled Full Stack Software Developer and Cybersecurity Analyst with over 2 years of experience in designing, developing, and securing web applications. Adept at both front-end and back-end development, with a strong foundation in cybersecurity principles and practices. Demonstrated expertise in managing the full software development lifecycle while ensuring applications are secure and compliant with industry standards. Successfully designed and developed over 30 advanced applications, catering to a diverse range of clients, from individuals and small businesses to large enterprise corporations.</h3>
 
 
 <div align="center">
